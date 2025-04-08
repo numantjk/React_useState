@@ -1,0 +1,12 @@
+button.text{
+    font-size: 20px;
+align-items: center;
+background-color: rgb(76, 206, 78);
+    width: 150px;
+    height: 110px;
+    border: 2px solid rgb(103, 97, 213);
+    border: none;
+    border-radius: 30px;
+    display:grid;
+
+}
